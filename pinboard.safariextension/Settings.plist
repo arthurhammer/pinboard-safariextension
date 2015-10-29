@@ -8,7 +8,7 @@
 		<key>Key</key>
 		<string>quoteSelection</string>
 		<key>Title</key>
-		<string>Quote Selection (with "&gt;")</string>
+		<string>Quote selection with "&gt;"</string>
 		<key>Type</key>
 		<string>CheckBox</string>
 	</dict>

@@ -5,17 +5,17 @@
 	<key>Author</key>
 	<string>Arthur Hammer</string>
 	<key>Builder Version</key>
-	<string>10600.4.10.7</string>
+	<string>11601.2.7.2</string>
 	<key>CFBundleDisplayName</key>
 	<string>Add to Pinboard</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.ahammer.addtopinboard</string>
+	<string>me.ahammer.pinboard</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>
@@ -65,6 +65,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>https://github.com/ahammer-/pinboard.safariextension</string>
+	<string>https://github.com/arthurhammer/pinboard-safariextension</string>
 </dict>
 </plist>

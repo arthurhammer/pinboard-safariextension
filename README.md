@@ -6,7 +6,9 @@ Super simple Safari extension for bookmarking the current page in [Pinboard](htt
 
 ## Installing
 
-To install, open the `pinboard.safariextz` extension file. Existing tabs need to be reloaded before using the extension.
+Open `pinboard.safariextz`. Existing tabs need to be reloaded using the extension.
+
+**Note**: With the changes to extensions in Safari 9 on El Capitan, Safari might complain when trying to install this. It will probably be fine though.
 
 ## Usage
 

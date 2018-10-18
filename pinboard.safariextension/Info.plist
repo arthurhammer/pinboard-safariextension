@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Arthur Hammer</string>
 	<key>Builder Version</key>
-	<string>11601.2.7.2</string>
+	<string>13606.2.11</string>
 	<key>CFBundleDisplayName</key>
 	<string>Add to Pinboard</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.1</string>
+	<string>1.0.2</string>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>3</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>

@@ -2,6 +2,10 @@
 
 ![Screenshot Pinboard Safari extension](screenshot.png)
 
+**Deprecated**: This project is deprecated. Apple droppped any support for extensions not bundled with apps from the App Store with Safari 13 (September 2019).
+
+---
+
 Super simple Safari extension for bookmarking the current page in [Pinboard](https://pinboard.in). Click the button and done.
 
 ## Installing
